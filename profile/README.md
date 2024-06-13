@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/gistana/gistana.github.io">
-    <img src="https://avatars.githubusercontent.com/u/168736976" alt="Logo" width="80" height="80">
+    <img src="Gisaster.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Gisaster</h3>
