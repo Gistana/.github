@@ -5,9 +5,9 @@
     <img src="https://avatars.githubusercontent.com/u/168736976" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">WebGIS Destana</h3>
+<h3 align="center">Gisaster</h3>
   <p align="center">
-    WebGIS Destana adalah tempat di mana kode bertemu dengan keselamatan. Dengan fokus pada pemetaan evakuasi dan informasi kontak darurat, kami membangun solusi yang inovatif untuk melindungi komunitas dari ancaman bencana. kami adalah komunitas pengembang yang bersemangat untuk merespons bencana secepat mungkin. Bersama WebGIS Destana, menyelamatkan dunia, satu kode pada satu waktu.
+    Gisaster atau WebGIS Destana adalah tempat di mana kode bertemu dengan keselamatan. Dengan fokus pada pemetaan evakuasi dan informasi kontak darurat, kami membangun solusi yang inovatif untuk melindungi komunitas dari ancaman bencana. kami adalah komunitas pengembang yang bersemangat untuk merespons bencana secepat mungkin. Bersama WebGIS Destana, menyelamatkan dunia, satu kode pada satu waktu.
     <br />
     <a href="https://gistana.github.io">Lihat Demo</a>
     ·
