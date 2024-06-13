@@ -87,7 +87,7 @@ Jangan lupa memberi bintang pada proyek ini! Terima kasih lagi!
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-[product-screenshot]: [https://github.com/Gistana/gistana.github.io/blob/main/public/img/screenshot.png?raw=true](https://drive.google.com/file/d/1saYofxWtUNxf2YhWOkC4twmUirn14a-f/view?usp=sharing)
+[product-screenshot]: https://ibb.co.com/xCdKL0T
 [product-url]: https://gistana.github.io/
 [fork-url]: https://github.com/gistana/gistana.github.io/fork
 [pull-request-url]: https://github.com/gistana/gistana.github.io/pulls/new
