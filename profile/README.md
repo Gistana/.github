@@ -29,7 +29,9 @@
 
 ## Tentang Projek
 
-[![WebGIS Destana Screen Shot][product-screenshot]][product-url]
+[![WebGIS Destana Screen Shot]
+<img src="landing_page.png" alt="landing_page">
+[product-url]
 
 WebGIS Destana adalah tempat di mana kode bertemu dengan keselamatan. Dengan fokus pada pemetaan evakuasi dan informasi kontak darurat, kami membangun solusi yang inovatif untuk melindungi komunitas dari ancaman bencana. kami adalah komunitas pengembang yang bersemangat untuk merespons bencana secepat mungkin. Bersama WebGIS Destana, menyelamatkan dunia, satu kode pada satu waktu.
 
@@ -87,7 +89,7 @@ Jangan lupa memberi bintang pada proyek ini! Terima kasih lagi!
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-[product-screenshot]: https://ibb.co.com/xCdKL0T
+[product-screenshot]: https://github.com/Gistana/gistana.github.io/blob/main/public/img/screenshot.png?raw=true
 [product-url]: https://gistana.github.io/
 [fork-url]: https://github.com/gistana/gistana.github.io/fork
 [pull-request-url]: https://github.com/gistana/gistana.github.io/pulls/new
